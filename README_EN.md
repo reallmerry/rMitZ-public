@@ -1,6 +1,6 @@
 [🇷🇺 Русский](README_RU.md) · **🇬🇧 English**
 
-# Drones
+# rMitZ
 
 A complete combat UAV system for Paper servers 1.21.x: autonomous strike drones
 with real ballistics and navigation, pilot-controlled FPV kamikaze drones, recon
