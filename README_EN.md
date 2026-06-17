@@ -18,10 +18,25 @@ Author: **reallmerry**
 
 The plugin is available for purchase.
 
-* Website: **reallmerry.store**
-* Telegram: *(your contact)*
-* Discord: *(your contact)*
-* Test server and screenshots — on request
+* [Telegram](https://t.me/sekiac)
+* Discord: @ca4h
+* Test server (available upon request)
+* Screenshots (available upon request)
+
+### Price
+
+| Currency | Price |
+|---|---|
+| RUB | 11,000 ₽ |
+| USD | $160 |
+| EUR | €140 |
+| UAH | ₴7,000 |
+| USDT (TRC20) | 160 USDT |
+
+> Non-ruble prices are rounded up to cover transfer fees. Exchange rates change —
+> confirm the exact amount when purchasing.
+
+**Payment methods:** Russian bank transfer (RUB), USDT (TRC20).
 
 ---
 
